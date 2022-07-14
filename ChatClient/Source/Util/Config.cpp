@@ -3,8 +3,8 @@
 std::time_t*  getTime()
 {
 	auto end = std::chrono::system_clock::now();
-	std::time_t tek = std::chrono::system_clock::to_time_t(end);
-	return &tek;
+	std::time_t time = std::chrono::system_clock::to_time_t(end);
+	return &time;
 
 }
 

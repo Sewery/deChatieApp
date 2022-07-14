@@ -12,7 +12,7 @@ private:
 
 	//Window parameters
 	std::shared_ptr<Window> win;
-	float ratioToBaseWidth=1.0f;
+	float ratioToBaseWidth= 1.0f;
 	float ratioToBaseHeight=1.0f;
 
 	//Actual user data
