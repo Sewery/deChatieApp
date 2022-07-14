@@ -1,6 +1,6 @@
 # deChatieApp
 
-It is my desktop app communicator. It uses ENet and SDL library. It's writeen in C++ ( if you see many other languages it's due to dependencies which I use )
+It's made by me desktop app communicator. It uses ENet and SDL library. It's writeen in C++ ( if you see many other languages it's due to dependencies which I use ).
 App is in early stage of development. If you see any bugs please report to issues
 
 This app is at this moment capable of launching server  and sevral client on local host sending accross it messages. UI also is basic.
